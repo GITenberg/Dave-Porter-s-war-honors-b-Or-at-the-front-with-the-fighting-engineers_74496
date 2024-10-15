@@ -8,6 +8,9 @@ contributor:
     deathdate: 1957
     gutenberg_agent_id: '5821'
     url: http://www.gutenberg.org/2009/agents/5821
+covers:
+- cover_type: archival
+  image_path: 74496-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Stratemeyer, Edward
@@ -24,6 +27,8 @@ creator:
     - https://en.wikipedia.org/wiki/Edward_Stratemeyer
     - https://www.gutenberg.org/ebooks/author/55530
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74496#Dave-Porter-s-war-honors-b-Or-at-the-front-with-the-fighting-engineers
 gutenberg_issued: '2024-09-30'
 gutenberg_type: Text
 identifiers:
